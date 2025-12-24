@@ -11,7 +11,8 @@ class SimpleAgent:
         self.name = name
         self.instructions = instructions
         #This is the API key used to talk to the google
-        self.api_key = "AIzaSyDFKOW48M-Q9bGUsJeEFimTkVgMotF4t1c"
+		#I used My_API_KEY instead of my original API KEY- I didn't want that to be public
+        self.api_key = "My_API_KEY"
         self.client = genai.Client(api_key=self.api_key)
 
     def run(self, task):
