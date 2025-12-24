@@ -1,0 +1,5 @@
+Open Obsidian, create a new Vault named 'InternVault', and enter the vault.
+Create a new note titled 'Meeting Notes' and type the text 'Daily Standup' into the body.
+Go to Settings and verify that the 'Appearance' tab icon is the color Red.
+Find and click the 'Print to PDF' button in the main file menu.
+Find the Settings app, scroll to the bottom, and tell me what the last menu item is.
